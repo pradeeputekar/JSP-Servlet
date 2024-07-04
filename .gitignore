@@ -1,0 +1,50 @@
+# Maven target directory
+/target/
+
+# Gradle build directories
+/.gradle/
+/build/
+
+# IntelliJ IDEA
+/.idea/
+/*.iws
+/*.iml
+/*.ipr
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+/target/
+
+# VS Code
+/.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Other generated files
+*.war
+*.ear
+
+# User-specific files
+*.swp
+*~
+.project
+.classpath
+.settings/
